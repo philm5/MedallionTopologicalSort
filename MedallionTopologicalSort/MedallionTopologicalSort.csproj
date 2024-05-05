@@ -8,9 +8,9 @@
     <LangVersion>8.0</LangVersion>
     <Nullable>enable</Nullable>
 
-    <Version>1.0.0</Version>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <FileVersion>1.0.0.0</FileVersion>
+    <Version>1.0.0.1</Version>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
     <Authors>Michael Adelson</Authors>
     <Copyright>Copyright © 2019 Michael Adelson</Copyright>
     <RootNamespace>Medallion.Collections</RootNamespace>
