@@ -58,7 +58,7 @@ namespace Medallion.Collections
                     }
                     else
                     {
-                        throw SortError("an element has a dependency that is not in source.");
+                        throw SortError($"an element [{items[i]}] has a dependency [{dependency}] that is not in source.");
                     }
                 }
 
